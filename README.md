@@ -39,7 +39,6 @@ domain pbx01: chunks from vda to /srv/lib/libvirt/backups/pbx01_vda updated
 domain pbx01: removing snapshot /dev/vg00/pbx01_root_2bf1a995-e585-46af-854c-d4076e91e7c3
 
 # Setup
-Install golang packages.
 
 apt-get install golang
 
