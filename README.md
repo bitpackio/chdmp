@@ -43,6 +43,8 @@ Install golang packages.
 
 apt-get install golang
 
+export GOPATH=$HOME/Projects/chdmp
+
 go build src/chdmp/chdmp.go
 
 go build src/vmsnap/vmsnap.go
